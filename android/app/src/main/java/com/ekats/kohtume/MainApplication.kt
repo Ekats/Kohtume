@@ -1,4 +1,4 @@
-package com.anonymous.humbble
+package com.ekats.kohtume
 
 import android.app.Application
 import android.content.res.Configuration

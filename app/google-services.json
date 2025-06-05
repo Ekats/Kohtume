@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331313657817",
+    "project_id": "kohtume-5e947",
+    "storage_bucket": "kohtume-5e947.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331313657817:android:19e79b7bdb8751930acbc8",
+        "android_client_info": {
+          "package_name": "com.ekats.kohtume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331313657817-6mhieagp4lpov1eu6mai6g3pp6oliml5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfwaTJB_rMW8oZACSnfF3fX8RRSBwEkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331313657817-6mhieagp4lpov1eu6mai6g3pp6oliml5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
